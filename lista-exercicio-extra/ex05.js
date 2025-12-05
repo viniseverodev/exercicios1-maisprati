@@ -1,3 +1,5 @@
+// 5. Crie um jogo de JoKenPo (Pedra-Papel-Tesoura).
+
 const prompt = require('prompt-sync') ()
 
 console.log("Escolha uma opção:\n1 - Pedra\n2 - Papel\n3 - Tesoura")
